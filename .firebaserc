@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "not-financial-advice"
+  },
+  "targets": {
+    "not-financial-advice": {
+      "hosting": {
+        "nfa": [
+          "nfa"
+        ],
+        "not-financial-advice": [
+          "not-financial-advice"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
